@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80fe3637-ed98-4047-ab30-0ab8073ea3a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoaZjmbwUrWsiAxR5x256f45ct" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/mRNASequence" />
+      <recent name="$PROJECT_DIR$/AlphaCoVSpike" />
+      <recent name="$PROJECT_DIR$/Spikes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GlobalAlignment">
+    <configuration name="FindPRRA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPRRA" />
+      <module name="sars-coronavirus common pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG" />
+      <module name="sars-coronavirus common pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalAlignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GlobalAlignment" />
+      <module name="sars-coronavirus common pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotSpot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HotSpot" />
+      <module name="sars-coronavirus common pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Top100LongestPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Top100LongestPattern" />
+      <module name="sars-coronavirus common pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GlobalAlignment" />
+        <item itemvalue="Application.HotSpot" />
+        <item itemvalue="Application.FindPRRA" />
+        <item itemvalue="Application.Top100LongestPattern" />
+        <item itemvalue="Application.GFG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80fe3637-ed98-4047-ab30-0ab8073ea3a5" name="Default Changelist" comment="" />
+      <created>1585507958031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585507958031</updated>
+      <workItem from="1585507960650" duration="14746000" />
+      <workItem from="1585600346983" duration="527000" />
+      <workItem from="1585600885414" duration="86000" />
+      <workItem from="1585600981354" duration="23000" />
+      <workItem from="1585601013449" duration="327000" />
+      <workItem from="1585610935411" duration="25000" />
+      <workItem from="1585610969258" duration="4445000" />
+      <workItem from="1585770703246" duration="15156000" />
+      <workItem from="1586122677561" duration="8864000" />
+      <workItem from="1586295043681" duration="377000" />
+      <workItem from="1586303087552" duration="412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1585958142351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1585958142351" />
+    <state x="449" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585529967604">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1585529967604" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1585514657638">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585514657638" />
+    <state width="1398" height="337" key="GridCell.Tab.0.bottom" timestamp="1586296588421">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="337" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586296588421" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1585530896904" />
+    <state width="1398" height="337" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1586210407959" />
+    <state width="1398" height="337" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1586153251673" />
+    <state width="1398" height="337" key="GridCell.Tab.0.center" timestamp="1586296588420">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="337" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586296588420" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1585530896902" />
+    <state width="1398" height="337" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1586210407958" />
+    <state width="1398" height="337" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1586153251672" />
+    <state width="1398" height="337" key="GridCell.Tab.0.left" timestamp="1586296588420">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="337" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586296588420" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1585530896901" />
+    <state width="1398" height="337" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1586210407957" />
+    <state width="1398" height="337" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1586153251671" />
+    <state width="1398" height="337" key="GridCell.Tab.0.right" timestamp="1586296588421">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="337" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586296588421" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1585530896903" />
+    <state width="1398" height="337" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1586210407958" />
+    <state width="1398" height="337" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1586153251673" />
+    <state x="458" y="220" key="extract.method.dialog" timestamp="1586123381173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="220" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1586123381173" />
+    <state x="458" y="222" key="extract.method.dialog/0.23.1440.815@0.23.1440.815" timestamp="1585805354957" />
+    <state x="378" y="180" width="683" height="539" key="find.popup" timestamp="1585873261873">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="180" width="683" height="539" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1585873261873" />
+    <state x="378" y="186" width="683" height="486" key="find.popup/0.23.1440.813@0.23.1440.813" timestamp="1585809298482" />
+    <state x="378" y="186" width="683" height="486" key="find.popup/0.23.1440.815@0.23.1440.815" timestamp="1585807482423" />
+    <state x="97" y="72" key="new project wizard" timestamp="1585957200239">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1585957200239" />
+  </component>
+</project>
